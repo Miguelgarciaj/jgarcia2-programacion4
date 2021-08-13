@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <tlite>Ejercicios de Diseño Web II</tlite>
+    <link real="stylesheet" type="text/css" href="css/tabla.css">
+</head>
+<body>
+<div id="encabezado">
+    <div id="logo">
+        <img src="img/logo.jpg" class="imagen">
+    <h2>Instituto Hondureño de Educación por Radio</h2>
+    </div>
+    <div >
+        <nav>
+        <ul class="menu">
+            <li><a href="">semana I </a>
+                <ul>
+                    <li><a href="Tabla secilla.html">Tabla Sencilla</a></li>
+                    <li><a href="Estilo tabla.html">Estilo de tabla</a></li>
+                    <li><a href="Tabla con estilo.html">Tabla con Estilo</a></li>
+                    </ul>
+                </li>
+                <li><a href="">Semana II </a>
+                    <ul>
+                        <li><a href="Tabla.html">Tabla con Estilo</a></li>
+<li><a href="juego.html">juego</a></li>
+<li><a href="ganaste.html">Ganaste</a></li>
+                    </ul>
+                </li>
+                <li><a href="">semana III</a>
+                    <ul>
+                        <li><a href="mapa.html">Mapa</li>
+<li><a href="">Formulario</a></li>
+<li><a href="">Sub Item III</a></li>
+<li><a href="">sub Item IV </a></li>
+                    </ul>
+                </li>
+                <li><a href="">semana IV </a>
+                    <ul>
+                        <li><a href="">Sub Item I</a></li>
+<li><a                  href="">sub Item II</a></li>
+<li><a href="">sub Item III</a></li>
+<li><a href="">sub Item IV</a></li>
+                    </ul>
+                </li>
+                <li><a href="">Semana V </a>
+                    <ul>
+                        <li><a href="">Sub Item I</a></li>
+<li><a href="">Sub Item II</a></li>
+<li><a href="">Sub Item III</a></li>
+<li><a href="">Sub Item IV</a></li>
+                    </ul>
+                </li>
+            </ul>
+            </nav>
+        </div>
+    </div>
+    </body>
+    </html>

@@ -1,0 +1,22 @@
+<html>
+<head>
+</head>
+PHP-Java-Javaserip-C-             C++</body>.                         </html>
+En el navegador obtendriamos el resultado:.                        PHP-Java-Script-C-C++
+                                                                 Salto De Linea <BR>.                    <html>
+<head>
+</head>
+<body>
+PHP<br>
+JavaSecript<br>
+Java<br>
+C<br>
+C++
+</body>
+</html>
+                                   En el navegador obtendriamos el resultado:
+PHP
+JavaScrip
+t Java
+C
+C++

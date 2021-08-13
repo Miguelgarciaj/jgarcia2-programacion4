@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'seridf';
+}
+/*INICIA LA PARTE DEL ENCABEZADO Y DEL LOGO IHER*/
+#linea{
+    width: 100%;
+    height: 5px;
+    background: #FFD700;
+}
+
+#encabezado{
+    width: auto;
+    height: 133px;
+    border: 0px solid;
+    background: #20B2AA;
+}
+
+#centro{
+    width: 100%;
+    overflow: hidden;
+    background:#FFCC99;
+    height: 100vh;
+}
+
+#mapa{
+    overflow: hidden;
+    background:#99FFF;
+}
